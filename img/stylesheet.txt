@@ -1,0 +1,137 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-blockquote {
+    width: 21px;
+    height: 26px;
+    background-position: -5px -5px;
+}
+
+.sprite-customization {
+    width: 39px;
+    height: 39px;
+    background-position: -36px -5px;
+}
+
+.sprite-divider {
+    width: 2px;
+    height: 10px;
+    background-position: -85px -5px;
+}
+
+.sprite-drop-menu {
+    width: 19px;
+    height: 13px;
+    background-position: -97px -5px;
+}
+
+.sprite-facebook {
+    width: 10px;
+    height: 17px;
+    background-position: -126px -5px;
+}
+
+.sprite-html5 {
+    width: 39px;
+    height: 40px;
+    background-position: -146px -5px;
+}
+
+.sprite-icon-eye {
+    width: 26px;
+    height: 16px;
+    background-position: -5px -55px;
+}
+
+.sprite-joomla {
+    width: 40px;
+    height: 40px;
+    background-position: -41px -55px;
+}
+
+.sprite-play {
+    width: 10px;
+    height: 12px;
+    background-position: -91px -55px;
+}
+
+.sprite-plus {
+    width: 5px;
+    height: 5px;
+    background-position: -111px -55px;
+}
+
+.sprite-plus-big {
+    width: 37px;
+    height: 39px;
+    background-position: -126px -55px;
+}
+
+.sprite-plus-w {
+    width: 5px;
+    height: 5px;
+    background-position: -173px -55px;
+}
+
+.sprite-psd {
+    width: 33px;
+    height: 41px;
+    background-position: -91px -104px;
+}
+
+.sprite-quote-big {
+    width: 53px;
+    height: 44px;
+    background-position: -134px -104px;
+}
+
+.sprite-quote-left {
+    width: 37px;
+    height: 29px;
+    background-position: -5px -158px;
+}
+
+.sprite-quote-right {
+    width: 37px;
+    height: 29px;
+    background-position: -52px -158px;
+}
+
+.sprite-rss {
+    width: 17px;
+    height: 17px;
+    background-position: -173px -70px;
+}
+
+.sprite-top {
+    width: 44px;
+    height: 44px;
+    background-position: -195px -5px;
+}
+
+.sprite-twitter {
+    width: 25px;
+    height: 17px;
+    background-position: -200px -59px;
+}
+
+.sprite-twitter-blue {
+    width: 89px;
+    height: 61px;
+    background-position: -99px -158px;
+}
+
+.sprite-ul-active {
+    width: 8px;
+    height: 8px;
+    background-position: -235px -59px;
+}
+
+.sprite-wordpress {
+    width: 40px;
+    height: 40px;
+    background-position: -200px -86px;
+}
